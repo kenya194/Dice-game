@@ -1,0 +1,28 @@
+body{
+    background-color: darkslategrey;
+}
+
+header h1{
+    color: aqua;
+    text-align: center;
+    font-size: 6rem;
+    margin-top: 0%;
+}
+
+section p.players{
+    color: aquamarine;
+    text-align: center;
+    font-size: 2rem;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    margin: 5% 15% 5% 15%;
+}
+
+footer{
+    text-align: center;
+    font-size: 2rem;
+    margin: 7% 0% 7% 0%;
+}
